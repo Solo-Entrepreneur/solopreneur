@@ -19,8 +19,6 @@
   <img src="https://github.com/user-attachments/assets/8a80c2e2-c603-4bb6-bce5-eb772cdaacd4" alt="Architecture Diagram">
 </p>
 
----
-
 ## What is This?
 
 This is an **AI agent skill** that gives your coding assistant deep knowledge of Y Combinator's famous startup course. Once installed, your AI agent can answer startup questions by referencing the actual lecture transcripts from Sam Altman, Paul Graham, Peter Thiel, Marc Andreessen, and 15+ other world-class founders.
