@@ -72,10 +72,10 @@ Install as a Claude Code plugin via [ClawHub](https://clawhub.com):
 
 ```bash
 # Search for the plugin
-clawhub search solopreneur
+clawhub search how-to-start-a-startup
 
 # Install
-clawhub install solopreneur
+clawhub install how-to-start-a-startup
 ```
 
 Or browse and install directly at [clawhub.com](https://clawhub.com).
@@ -143,7 +143,7 @@ All lecture content is from **"How to Start a Startup" (CS183B)**, a free course
 
 - Course website: [startupclass.co](https://startupclass.co)
 - Video lectures: [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)
-- Podcast: [iTunes](https://itunes.apple.com/us/podcast/solopreneur/id922398209?mt=2)
+- Podcast: [iTunes](https://itunes.apple.com/us/podcast/how-to-start-a-startup/id922398209?mt=2)
 
 Transcripts sourced from [genius.com](http://genius.com/albums/Sam-altman/How-to-start-a-startup-cs183b).
 
