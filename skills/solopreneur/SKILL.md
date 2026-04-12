@@ -12,7 +12,7 @@ AI startup advisor powered by the complete Stanford CS183B course — 20 lecture
 This skill contains the full transcript library from **"How to Start a Startup"** (CS183B), a free course taught at Stanford by Sam Altman and Y Combinator. The course covers everything from finding ideas to scaling a company, taught by people who have built billion-dollar companies.
 
 - **Source**: [startupclass.co](https://startupclass.co)
-- **Video lectures**: [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)
+- **Video lectures**: [YouTube](https://youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&si=8g_RNOKLpKGS8ei7)
 
 ## Lecture Index
 
@@ -107,4 +107,4 @@ Provide a clear, actionable answer that:
 All 20 lecture transcripts are in the `./references/` directory:
 - [Lecture01.md](./references/Lecture01.md) through [Lecture20.md](./references/Lecture20.md)
 - Original course: [startupclass.co](https://startupclass.co)
-- Video lectures: [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)
+- Video lectures: [YouTube](https://youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&si=8g_RNOKLpKGS8ei7)
