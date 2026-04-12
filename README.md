@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://skills.sh/zhimin-z/solopreneur"><img src="https://img.shields.io/badge/Browse-skills.sh-blue?style=flat-square" alt="Browse on skills.sh"></a>
   <a href="https://code.claude.com/docs/en/plugin-marketplaces"><img src="https://img.shields.io/badge/Claude_Code-Marketplace-orange?style=flat-square&logo=anthropic" alt="Claude Code Marketplace"></a>
+  <a href="https://clawhub.com"><img src="https://img.shields.io/badge/ClawHub-Plugin-purple?style=flat-square" alt="ClawHub"></a>
   <a href="https://github.com/zhimin-z/solopreneur/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
 </p>
 
@@ -59,11 +60,25 @@ One skill with 20 complete lecture transcripts as reference material:
 /plugin marketplace add zhimin-z/solopreneur
 
 # Install the skill
-/plugin install how-to-start-a-startup@how-to-start-a-startup
+/plugin install how-to-start-a-startup@solopreneur
 
 # List available skills
-/plugin marketplace list how-to-start-a-startup
+/plugin marketplace list solopreneur
 ```
+
+### ClawHub
+
+Install as a Claude Code plugin via [ClawHub](https://clawhub.com):
+
+```bash
+# Search for the plugin
+clawhub search solopreneur
+
+# Install
+clawhub install solopreneur
+```
+
+Or browse and install directly at [clawhub.com](https://clawhub.com).
 
 ### Universal Installation (16+ AI Tools)
 
