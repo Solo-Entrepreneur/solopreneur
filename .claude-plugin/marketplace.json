@@ -1,0 +1,44 @@
+{
+  "name": "how-to-start-a-startup",
+  "owner": {
+    "name": "Zhimin Zhao",
+    "email": "zhimin@example.com"
+  },
+  "metadata": {
+    "description": "Startup advisor skill powered by Stanford CS183B / Y Combinator's 'How to Start a Startup' course — 20 lectures from world-class founders and investors",
+    "version": "1.0.0"
+  },
+  "keywords": [
+    "startup",
+    "Y Combinator",
+    "entrepreneurship",
+    "fundraising",
+    "growth",
+    "hiring",
+    "product-market-fit",
+    "Stanford",
+    "CS183B"
+  ],
+  "plugins": [
+    {
+      "name": "how-to-start-a-startup",
+      "source": "./skills/how-to-start-a-startup",
+      "description": "Startup advisor skill powered by Stanford CS183B / Y Combinator's 'How to Start a Startup' course. 20 lectures from Sam Altman, Paul Graham, Peter Thiel, Marc Andreessen, Reid Hoffman, and more.",
+      "version": "1.0.0",
+      "homepage": "https://github.com/zhiminzhao/how-to-start-a-startup/tree/main/skills/how-to-start-a-startup",
+      "repository": "https://github.com/zhiminzhao/how-to-start-a-startup",
+      "license": "MIT",
+      "category": "education",
+      "keywords": [
+        "startup",
+        "Y Combinator",
+        "fundraising",
+        "growth",
+        "hiring",
+        "product-market-fit",
+        "Stanford-CS183B"
+      ],
+      "strict": true
+    }
+  ]
+}
