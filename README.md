@@ -21,8 +21,6 @@
 
 This is an **AI agent skill** that gives your coding assistant deep knowledge of Y Combinator's famous startup course. Once installed, your AI agent can answer startup questions by referencing the actual lecture transcripts from Sam Altman, Paul Graham, Peter Thiel, Marc Andreessen, and 15+ other world-class founders.
 
-For more information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).
-
 ## What's Inside
 
 One skill with 20 complete lecture transcripts as reference material:
@@ -126,11 +124,9 @@ This skill works with 16+ AI coding agents via `npx skills add`:
 
 All lecture content is from **"How to Start a Startup" (CS183B)**, a free course by Sam Altman and Y Combinator at Stanford University.
 
-- Course website: [startupclass.co](https://startupclass.co)
-- Video lectures: [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)
-- Podcast: [iTunes](https://itunes.apple.com/us/podcast/how-to-start-a-startup/id922398209?mt=2)
+- Video lectures: [YouTube](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe21)
 
-Transcripts sourced from [genius.com](http://genius.com/albums/Sam-altman/How-to-start-a-startup-cs183b).
+Transcripts sourced from [Genius](https://genius.com).
 
 ## Author
 
