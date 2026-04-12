@@ -1,11 +1,11 @@
 {
-  "name": "how-to-start-a-startup",
+  "name": "solopreneur",
   "version": "1.0.0",
   "description": "Startup advisor skill powered by Stanford CS183B / Y Combinator's 'How to Start a Startup' course. 20 lectures from Sam Altman, Paul Graham, Peter Thiel, Marc Andreessen, Reid Hoffman, and more.",
   "author": {
     "name": "Zhimin Zhao"
   },
-  "homepage": "https://github.com/zhimin-z/solopreneur/tree/main/skills/how-to-start-a-startup",
+  "homepage": "https://github.com/zhimin-z/solopreneur/tree/main/skills/solopreneur",
   "repository": "https://github.com/zhimin-z/solopreneur",
   "license": "MIT",
   "keywords": [

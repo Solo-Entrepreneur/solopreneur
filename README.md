@@ -60,7 +60,7 @@ One skill with 20 complete lecture transcripts as reference material:
 /plugin marketplace add zhimin-z/solopreneur
 
 # Install the skill
-/plugin install how-to-start-a-startup@solopreneur
+/plugin install solopreneur@solopreneur
 
 # List available skills
 /plugin marketplace list solopreneur
@@ -143,7 +143,7 @@ All lecture content is from **"How to Start a Startup" (CS183B)**, a free course
 
 - Course website: [startupclass.co](https://startupclass.co)
 - Video lectures: [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)
-- Podcast: [iTunes](https://itunes.apple.com/us/podcast/how-to-start-a-startup/id922398209?mt=2)
+- Podcast: [iTunes](https://itunes.apple.com/us/podcast/solopreneur/id922398209?mt=2)
 
 Transcripts sourced from [genius.com](http://genius.com/albums/Sam-altman/How-to-start-a-startup-cs183b).
 

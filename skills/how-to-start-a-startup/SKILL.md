@@ -1,5 +1,5 @@
 ---
-name: how-to-start-a-startup
+name: solopreneur
 description: Startup advisor skill powered by Stanford CS183B / Y Combinator's "How to Start a Startup" course. 20 lectures from Sam Altman, Paul Graham, Peter Thiel, Marc Andreessen, Reid Hoffman, and more. Use when user asks about starting a startup, fundraising, growth, hiring, company culture, product-market fit, sales, management, or any early-stage startup topic.
 ---
 

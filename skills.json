@@ -6,7 +6,7 @@
   "website": "https://startupclass.co",
   "skills": [
     {
-      "name": "how-to-start-a-startup",
+      "name": "solopreneur",
       "version": "1.0.0",
       "description": "Startup advisor skill powered by Stanford CS183B / Y Combinator's 'How to Start a Startup' course. 20 lectures, 1,000+ minutes of wisdom from Sam Altman, Paul Graham, Peter Thiel, Marc Andreessen, Reid Hoffman, and more. Covers ideas, products, growth, fundraising, hiring, culture, sales, management, and operations.",
       "icon": "graduation-cap",
@@ -36,22 +36,22 @@
       },
       "install": {
         "user": {
-          "claude": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup -a claude",
-          "droid": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup -a droid",
-          "opencode": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup -a opencode",
-          "codex": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup -a codex"
+          "claude": "npx skills add zhimin-z/solopreneur --skill solopreneur -a claude",
+          "droid": "npx skills add zhimin-z/solopreneur --skill solopreneur -a droid",
+          "opencode": "npx skills add zhimin-z/solopreneur --skill solopreneur -a opencode",
+          "codex": "npx skills add zhimin-z/solopreneur --skill solopreneur -a codex"
         },
         "project": {
-          "claude": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup",
-          "droid": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup",
-          "cursor": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup",
-          "opencode": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup",
-          "codex": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup"
+          "claude": "npx skills add zhimin-z/solopreneur --skill solopreneur",
+          "droid": "npx skills add zhimin-z/solopreneur --skill solopreneur",
+          "cursor": "npx skills add zhimin-z/solopreneur --skill solopreneur",
+          "opencode": "npx skills add zhimin-z/solopreneur --skill solopreneur",
+          "codex": "npx skills add zhimin-z/solopreneur --skill solopreneur"
         }
       },
       "commands": [],
       "links": {
-        "github": "https://github.com/zhimin-z/solopreneur/tree/main/skills/how-to-start-a-startup",
+        "github": "https://github.com/zhimin-z/solopreneur/tree/main/skills/solopreneur",
         "course": "https://startupclass.co",
         "videos": "https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg"
       },
@@ -60,121 +60,121 @@
           "id": "lecture-01",
           "title": "How to Start a Startup (Ideas, Products, Teams, Execution I)",
           "speaker": "Sam Altman, Dustin Moskovitz",
-          "path": "skills/how-to-start-a-startup/references/Lecture01.md"
+          "path": "skills/solopreneur/references/Lecture01.md"
         },
         {
           "id": "lecture-02",
           "title": "Ideas, Products, Teams and Execution Part II",
           "speaker": "Sam Altman",
-          "path": "skills/how-to-start-a-startup/references/Lecture02.md"
+          "path": "skills/solopreneur/references/Lecture02.md"
         },
         {
           "id": "lecture-03",
           "title": "Counterintuitive Parts of Startups, and How to Have Ideas",
           "speaker": "Paul Graham",
-          "path": "skills/how-to-start-a-startup/references/Lecture03.md"
+          "path": "skills/solopreneur/references/Lecture03.md"
         },
         {
           "id": "lecture-04",
           "title": "Building Product, Talking to Users, and Growing",
           "speaker": "Adora Cheung",
-          "path": "skills/how-to-start-a-startup/references/Lecture04.md"
+          "path": "skills/solopreneur/references/Lecture04.md"
         },
         {
           "id": "lecture-05",
           "title": "Business Strategy and Monopoly Theory",
           "speaker": "Peter Thiel",
-          "path": "skills/how-to-start-a-startup/references/Lecture05.md"
+          "path": "skills/solopreneur/references/Lecture05.md"
         },
         {
           "id": "lecture-06",
           "title": "Growth",
           "speaker": "Alex Schultz",
-          "path": "skills/how-to-start-a-startup/references/Lecture06.md"
+          "path": "skills/solopreneur/references/Lecture06.md"
         },
         {
           "id": "lecture-07",
           "title": "How to Build Products Users Love, Part I",
           "speaker": "Kevin Hale",
-          "path": "skills/how-to-start-a-startup/references/Lecture07.md"
+          "path": "skills/solopreneur/references/Lecture07.md"
         },
         {
           "id": "lecture-08",
           "title": "Doing Things That Don't Scale, PR, and How to Get Started",
           "speaker": "Walker Williams, Justin Kan",
-          "path": "skills/how-to-start-a-startup/references/Lecture08.md"
+          "path": "skills/solopreneur/references/Lecture08.md"
         },
         {
           "id": "lecture-09",
           "title": "How to Raise Money",
           "speaker": "Marc Andreessen, Ron Conway, Parker Conrad",
-          "path": "skills/how-to-start-a-startup/references/Lecture09.md"
+          "path": "skills/solopreneur/references/Lecture09.md"
         },
         {
           "id": "lecture-10",
           "title": "Company Culture and Building a Team, Part I",
           "speaker": "Alfred Lin, Brian Chesky",
-          "path": "skills/how-to-start-a-startup/references/Lecture10.md"
+          "path": "skills/solopreneur/references/Lecture10.md"
         },
         {
           "id": "lecture-11",
           "title": "Company Culture and Building a Team, Part II",
           "speaker": "Patrick Collison, John Collison, Ben Silbermann",
-          "path": "skills/how-to-start-a-startup/references/Lecture11.md"
+          "path": "skills/solopreneur/references/Lecture11.md"
         },
         {
           "id": "lecture-12",
           "title": "Building for the Enterprise",
           "speaker": "Aaron Levie",
-          "path": "skills/how-to-start-a-startup/references/Lecture12.md"
+          "path": "skills/solopreneur/references/Lecture12.md"
         },
         {
           "id": "lecture-13",
           "title": "How To Be A Great Founder",
           "speaker": "Reid Hoffman",
-          "path": "skills/how-to-start-a-startup/references/Lecture13.md"
+          "path": "skills/solopreneur/references/Lecture13.md"
         },
         {
           "id": "lecture-14",
           "title": "How to Operate",
           "speaker": "Keith Rabois",
-          "path": "skills/how-to-start-a-startup/references/Lecture14.md"
+          "path": "skills/solopreneur/references/Lecture14.md"
         },
         {
           "id": "lecture-15",
           "title": "How to Manage",
           "speaker": "Ben Horowitz",
-          "path": "skills/how-to-start-a-startup/references/Lecture15.md"
+          "path": "skills/solopreneur/references/Lecture15.md"
         },
         {
           "id": "lecture-16",
           "title": "How to Run a User Interview",
           "speaker": "Emmett Shear",
-          "path": "skills/how-to-start-a-startup/references/Lecture16.md"
+          "path": "skills/solopreneur/references/Lecture16.md"
         },
         {
           "id": "lecture-17",
           "title": "How to Build Products Users Love, Part II",
           "speaker": "Hosain Rahman",
-          "path": "skills/how-to-start-a-startup/references/Lecture17.md"
+          "path": "skills/solopreneur/references/Lecture17.md"
         },
         {
           "id": "lecture-18",
           "title": "Mechanics — Legal, Finance, HR, etc.",
           "speaker": "Kirsty Nathoo, Carolynn Levy",
-          "path": "skills/how-to-start-a-startup/references/Lecture18.md"
+          "path": "skills/solopreneur/references/Lecture18.md"
         },
         {
           "id": "lecture-19",
           "title": "Sales and Marketing, How to Pitch, and Investor Meeting Roleplaying",
           "speaker": "Tyler Bosmeny, YC Partners",
-          "path": "skills/how-to-start-a-startup/references/Lecture19.md"
+          "path": "skills/solopreneur/references/Lecture19.md"
         },
         {
           "id": "lecture-20",
           "title": "Closing Thoughts and Later-Stage Advice",
           "speaker": "Sam Altman",
-          "path": "skills/how-to-start-a-startup/references/Lecture20.md"
+          "path": "skills/solopreneur/references/Lecture20.md"
         }
       ]
     }
