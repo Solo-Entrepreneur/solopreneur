@@ -126,7 +126,7 @@ All lecture content is from **"How to Start a Startup" (CS183B)**, a free course
 
 - Video lectures: [YouTube](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe21)
 
-Transcripts sourced from Genius (original album page no longer available).
+Transcripts sourced from [genius.com](http://genius.com/albums/Sam-altman/How-to-start-a-startup-cs183b).
 
 ## Author
 
