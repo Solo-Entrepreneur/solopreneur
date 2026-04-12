@@ -15,6 +15,10 @@
   <a href="#quick-install">Quick Install</a> · <a href="#whats-inside">What's Inside</a> · <a href="#usage-examples">Usage Examples</a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a80c2e2-c603-4bb6-bce5-eb772cdaacd4" alt="Architecture Diagram">
+</p>
+
 ---
 
 ## What is This?
