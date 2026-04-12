@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://skills.sh/zhiminzhao/how-to-start-a-startup"><img src="https://img.shields.io/badge/Browse-skills.sh-blue?style=flat-square" alt="Browse on skills.sh"></a>
+  <a href="https://skills.sh/zhimin-z/solopreneur"><img src="https://img.shields.io/badge/Browse-skills.sh-blue?style=flat-square" alt="Browse on skills.sh"></a>
   <a href="https://code.claude.com/docs/en/plugin-marketplaces"><img src="https://img.shields.io/badge/Claude_Code-Marketplace-orange?style=flat-square&logo=anthropic" alt="Claude Code Marketplace"></a>
-  <a href="https://github.com/zhiminzhao/how-to-start-a-startup/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
+  <a href="https://github.com/zhimin-z/solopreneur/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ One skill with 20 complete lecture transcripts as reference material:
 
 ```bash
 # Add the marketplace
-/plugin marketplace add zhiminzhao/how-to-start-a-startup
+/plugin marketplace add zhimin-z/solopreneur
 
 # Install the skill
 /plugin install how-to-start-a-startup@how-to-start-a-startup
@@ -71,15 +71,15 @@ Works with Claude Code, Cursor, Windsurf, Droid, Codex, and more:
 
 ```bash
 # Install the skill
-npx skills add zhiminzhao/how-to-start-a-startup
+npx skills add zhimin-z/solopreneur
 
 # Install to a specific agent
-npx skills add zhiminzhao/how-to-start-a-startup -a claude
-npx skills add zhiminzhao/how-to-start-a-startup -a cursor
-npx skills add zhiminzhao/how-to-start-a-startup -a droid
+npx skills add zhimin-z/solopreneur -a claude
+npx skills add zhimin-z/solopreneur -a cursor
+npx skills add zhimin-z/solopreneur -a droid
 ```
 
-Browse and discover skills at **[skills.sh](https://skills.sh/zhiminzhao/how-to-start-a-startup)**
+Browse and discover skills at **[skills.sh](https://skills.sh/zhimin-z/solopreneur)**
 
 ## Usage Examples
 

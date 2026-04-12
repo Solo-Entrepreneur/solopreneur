@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "name": "How to Start a Startup",
   "description": "Startup advisor skill powered by Stanford CS183B / Y Combinator's 'How to Start a Startup' course — 20 lectures from world-class founders and investors",
-  "repository": "https://github.com/zhiminzhao/how-to-start-a-startup",
+  "repository": "https://github.com/zhimin-z/solopreneur",
   "website": "https://startupclass.co",
   "skills": [
     {
@@ -36,22 +36,22 @@
       },
       "install": {
         "user": {
-          "claude": "npx skills add zhiminzhao/how-to-start-a-startup --skill how-to-start-a-startup -a claude",
-          "droid": "npx skills add zhiminzhao/how-to-start-a-startup --skill how-to-start-a-startup -a droid",
-          "opencode": "npx skills add zhiminzhao/how-to-start-a-startup --skill how-to-start-a-startup -a opencode",
-          "codex": "npx skills add zhiminzhao/how-to-start-a-startup --skill how-to-start-a-startup -a codex"
+          "claude": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup -a claude",
+          "droid": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup -a droid",
+          "opencode": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup -a opencode",
+          "codex": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup -a codex"
         },
         "project": {
-          "claude": "npx skills add zhiminzhao/how-to-start-a-startup --skill how-to-start-a-startup",
-          "droid": "npx skills add zhiminzhao/how-to-start-a-startup --skill how-to-start-a-startup",
-          "cursor": "npx skills add zhiminzhao/how-to-start-a-startup --skill how-to-start-a-startup",
-          "opencode": "npx skills add zhiminzhao/how-to-start-a-startup --skill how-to-start-a-startup",
-          "codex": "npx skills add zhiminzhao/how-to-start-a-startup --skill how-to-start-a-startup"
+          "claude": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup",
+          "droid": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup",
+          "cursor": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup",
+          "opencode": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup",
+          "codex": "npx skills add zhimin-z/solopreneur --skill how-to-start-a-startup"
         }
       },
       "commands": [],
       "links": {
-        "github": "https://github.com/zhiminzhao/how-to-start-a-startup/tree/main/skills/how-to-start-a-startup",
+        "github": "https://github.com/zhimin-z/solopreneur/tree/main/skills/how-to-start-a-startup",
         "course": "https://startupclass.co",
         "videos": "https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg"
       },
