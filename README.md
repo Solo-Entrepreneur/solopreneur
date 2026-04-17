@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://skills.sh/zhimin-z/solopreneur"><img src="https://img.shields.io/badge/Browse-skills.sh-blue?style=for-the-badge" alt="Browse on skills.sh"></a>
-  <a href="https://code.claude.com/docs/en/plugin-marketplaces"><img src="https://img.shields.io/badge/Claude_Code-Marketplace-orange?style=for-the-badge&logo=anthropic" alt="Claude Code Marketplace"></a>
-  <a href="https://github.com/zhimin-z/solopreneur/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://skills.sh/zhimin-z/solopreneur"><img src="https://img.shields.io/badge/Browse-skills.sh-blue?style=for-the-badge" alt="Browse solopreneur skill on skills.sh platform"></a>
+  <a href="https://code.claude.com/docs/en/plugin-marketplaces"><img src="https://img.shields.io/badge/Claude_Code-Marketplace-orange?style=for-the-badge&logo=anthropic" alt="Available on Claude Code Marketplace"></a>
+  <a href="https://github.com/zhimin-z/solopreneur/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="Licensed under MIT License"></a>
 </p>
 
 <p align="center">
