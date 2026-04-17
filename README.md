@@ -1,34 +1,47 @@
-# How to Start a Startup — AI Agent Skill
+# 🚀 How to Start a Startup — AI Agent Skill
 
 <p align="center">
-  <strong>Startup advisor skill powered by Stanford CS183B / Y Combinator's "How to Start a Startup" course</strong>
+  <strong>Your AI startup advisor, powered by Stanford CS183B / Y Combinator's legendary course.</strong>
 </p>
 
 <p align="center">
-  <a href="https://skills.sh/zhimin-z/solopreneur"><img src="https://img.shields.io/badge/Browse-skills.sh-blue?style=flat-square" alt="Browse on skills.sh"></a>
-  <a href="https://code.claude.com/docs/en/plugin-marketplaces"><img src="https://img.shields.io/badge/Claude_Code-Marketplace-orange?style=flat-square&logo=anthropic" alt="Claude Code Marketplace"></a>
-  <a href="https://github.com/zhimin-z/solopreneur/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
+  <a href="https://skills.sh/zhimin-z/solopreneur"><img src="https://img.shields.io/badge/Browse-skills.sh-blue?style=for-the-badge" alt="Browse solopreneur skill on skills.sh platform"></a>
+  <a href="https://code.claude.com/docs/en/plugin-marketplaces"><img src="https://img.shields.io/badge/Claude_Code-Marketplace-orange?style=for-the-badge&logo=anthropic" alt="Available on Claude Code Marketplace"></a>
+  <a href="https://github.com/zhimin-z/solopreneur/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="Licensed under MIT License"></a>
 </p>
 
 <p align="center">
-  20 lectures, 1,000+ minutes of startup wisdom from world-class founders and investors.<br>
-  <a href="#quick-install">Quick Install</a> · <a href="#whats-inside">What's Inside</a> · <a href="#usage-examples">Usage Examples</a>
+  <a href="#quick-install">Quick Install</a> ·
+  <a href="#whats-inside">What's Inside</a> ·
+  <a href="#usage-examples">Usage Examples</a> ·
+  <a href="#supported-ai-tools">Supported Tools</a>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8a80c2e2-c603-4bb6-bce5-eb772cdaacd4" alt="Architecture Diagram">
 </p>
 
-## What is This?
+<p align="center">
+  <sub>📚 20 lectures · ⏱️ 1,000+ minutes · 🧠 Advice from world-class founders and investors</sub>
+</p>
 
-This is an **AI agent skill** that gives your coding assistant deep knowledge of Y Combinator's famous startup course. Once installed, your AI agent can answer startup questions by referencing the actual lecture transcripts from Sam Altman, Paul Graham, Peter Thiel, Marc Andreessen, and 15+ other world-class founders.
+---
 
-## What's Inside
+## ✨ What is this?
 
-One skill with 20 complete lecture transcripts as reference material:
+This is an **AI agent skill** that gives your coding assistant deep knowledge of Y Combinator's famous startup course.
+
+Once installed, your AI agent can answer startup questions by referencing real lecture transcripts from:
+**Sam Altman, Paul Graham, Peter Thiel, Marc Andreessen, Reid Hoffman**, and many others.
+
+---
+
+## 📦 What's Inside
+
+One skill with **20 complete lecture transcripts** as reference material:
 
 | # | Topic | Speaker(s) |
-|---|-------|-----------|
+|---|---|---|
 | 1 | How to Start a Startup | Sam Altman, Dustin Moskovitz |
 | 2 | Ideas, Products, Teams and Execution II | Sam Altman |
 | 3 | Counterintuitive Parts of Startups, How to Have Ideas | Paul Graham |
@@ -50,7 +63,9 @@ One skill with 20 complete lecture transcripts as reference material:
 | 19 | Sales, Marketing, How to Pitch | Tyler Bosmeny, YC Partners |
 | 20 | Closing Thoughts and Later-Stage Advice | Sam Altman |
 
-## Quick Install
+---
+
+## ⚡ Quick Install
 
 ### Claude Code Plugin Marketplace
 
@@ -79,40 +94,44 @@ npx skills add zhimin-z/solopreneur -a cursor
 npx skills add zhimin-z/solopreneur -a droid
 ```
 
-Browse and discover skills at **[skills.sh](https://skills.sh/zhimin-z/solopreneur)**
+🔎 Browse and discover at **[skills.sh](https://skills.sh/zhimin-z/solopreneur)**.
 
-## Usage Examples
+---
 
-Once installed, just ask your AI agent startup questions:
+## 💬 Usage Examples
 
-**Evaluating ideas:**
+Once installed, ask your AI agent startup questions:
+
+### Evaluating ideas
 > "How do I know if my startup idea is good?"
 
 Your agent reads Lectures 1 & 3 and responds with Sam Altman's framework ("unpopular but right") and Paul Graham's advice on finding ideas from personal problems.
 
-**Fundraising:**
+### Fundraising
 > "How should I approach raising my seed round?"
 
 Your agent reads Lecture 9 and synthesizes Marc Andreessen's and Ron Conway's advice on timing, amount, and investor selection.
 
-**Hiring & culture:**
+### Hiring & culture
 > "How do I build company culture as a first-time founder?"
 
 Your agent reads Lectures 10 & 11 and pulls from Brian Chesky (Airbnb), Patrick Collison (Stripe), and Alfred Lin (Zappos) on defining and maintaining culture.
 
-**Growth:**
+### Growth
 > "What's the most important metric for growth?"
 
 Your agent reads Lecture 6 and delivers Alex Schultz's framework on retention as the single most important metric.
 
-**Operations:**
+### Operations
 > "How do I transition from founder to operator?"
 
 Your agent reads Lectures 14 & 15 and combines Keith Rabois's operating framework with Ben Horowitz's management advice.
 
-## Supported AI Tools
+---
 
-This skill works with 16+ AI coding agents via `npx skills add`:
+## 🧰 Supported AI Tools
+
+This skill works with **16+ AI coding agents** via `npx skills add`:
 
 - **Claude Code** — Anthropic's CLI for Claude
 - **Cursor** — AI-first code editor
@@ -122,23 +141,26 @@ This skill works with 16+ AI coding agents via `npx skills add`:
 - **Codex** — AI code generation tool
 - **And more...** — See the [full list](https://github.com/vercel-labs/add-skill#available-agents)
 
-## Course Credits
+---
+
+## 🎓 Course Credits
 
 All lecture content is from **"How to Start a Startup" (CS183B)**, a free course by Sam Altman and Y Combinator at Stanford University.
 
 - Video lectures: [YouTube](https://youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&si=8g_RNOKLpKGS8ei7)
+- Transcript source: [genius.com](https://genius.com/albums/Sam-altman/How-to-start-a-startup-cs183b)
 
-Transcripts sourced from [genius.com](http://genius.com/albums/Sam-altman/How-to-start-a-startup-cs183b).
+---
 
-## Author
+## 👤 Author
 
 **Zhimin Zhao**
 
-## Contributing
+## 🤝 Contributing
 
 1. Fork this repository
 2. Submit a pull request with improvements
 
-## License
+## 📄 License
 
 MIT
