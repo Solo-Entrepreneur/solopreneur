@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="#-quick-install">Quick Install</a> ·
-  <a href="#-whats-inside">What's Inside</a> ·
-  <a href="#-usage-examples">Usage Examples</a> ·
-  <a href="#-supported-ai-tools">Supported Tools</a>
+  <a href="#quick-install">Quick Install</a> ·
+  <a href="#whats-inside">What's Inside</a> ·
+  <a href="#usage-examples">Usage Examples</a> ·
+  <a href="#supported-ai-tools">Supported Tools</a>
 </p>
 
 <p align="center">
@@ -148,7 +148,7 @@ This skill works with **16+ AI coding agents** via `npx skills add`:
 All lecture content is from **"How to Start a Startup" (CS183B)**, a free course by Sam Altman and Y Combinator at Stanford University.
 
 - Video lectures: [YouTube](https://youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&si=8g_RNOKLpKGS8ei7)
-- Transcript source: [genius.com](http://genius.com/albums/Sam-altman/How-to-start-a-startup-cs183b)
+- Transcript source: [genius.com](https://genius.com/albums/Sam-altman/How-to-start-a-startup-cs183b)
 
 ---
 
